@@ -16,6 +16,6 @@
 # **AI Assistant**
 - ChatGPT
 - Github Copilot
-# Social Media :
+# Social Media
 - MawinCK : Youtube [Click Here](https://www.youtube.com/@Mawmom)
 - MawinCK : Facebook [Click Here](https://www.facebook.com/profile.php?id=100092990831010)
